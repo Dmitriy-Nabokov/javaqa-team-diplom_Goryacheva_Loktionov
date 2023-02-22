@@ -35,9 +35,9 @@ public class Player {
         if (playedTime.containsKey(game)) {
             playedTime.put(game, playedTime.get(game) + hours);
         } else {
-            playedTime.put(game, hours);
+            throw new RuntimeException("Игра не установлена");
         }
-        return playedTime.get(game);   // + RuntimeException
+        return playedTime.get(game);
     }
 
     /** Метод принимает жанр игры (одно из полей объекта игры) и
