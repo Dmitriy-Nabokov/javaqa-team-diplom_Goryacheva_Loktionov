@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f8783fd-deb7-4088-94a3-65b1ec434a3c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netology/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netology/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/netology/GameStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/netology/GameStoreTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netology/GameStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netology/GameStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netology/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netology/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/netology/GameStoreTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/netology/GameStoreTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/netology/PlayerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/netology/PlayerTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="3f8783fd-deb7-4088-94a3-65b1ec434a3c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,13 +36,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.PlayerTest.ReturnMustUsableGameByGenre">
     <configuration name="PlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaqateam" />
