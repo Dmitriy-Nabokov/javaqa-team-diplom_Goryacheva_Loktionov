@@ -15,24 +15,5 @@ public class GameStoreTest {
 
         assertTrue(store.containsGame(game));
     }
+}
 
-    // другие ваши тесты
-//    @Test
-//    public void AddPlayerIfPlayOnlyOneHour(){
-//        GameStore store = new GameStore();
-//        store.addPlayTime("Кузя", 3);
-//        String expected = "Кузя";
-//        String actual =store.getMostPlayer();
-//        Assertions.assertEquals(expected,actual);
-    }
-////    @Test
-//    public void SumPlayTime(){
-//        GameStore store = new GameStore();
-//        store.addPlayTime("Кузя", 5);
-//        store.addPlayTime("Вася", 10);
-//
-//        int expected = 15;
-//        int actual = store.getSumPlayedTime();
-//        Assertions.assertEquals(expected,actual);
-//
-//    }
